@@ -1,0 +1,3 @@
+[submodule "linuxgsm"]
+	path = linuxgsm
+	url = https://github.com/rconjoe/linuxgsm
